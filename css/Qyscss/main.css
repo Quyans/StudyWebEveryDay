@@ -27,3 +27,7 @@
     background-color: rgba(172, 175, 207, 0.22);
     padding-bottom: 2%;
 }
+
+#taskul li{
+    text-decoration: none;
+}
